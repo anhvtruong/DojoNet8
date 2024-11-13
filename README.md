@@ -20,7 +20,7 @@ In this session, we will cover:
 To fully benefit from this session, participants should have a basic understanding of:
 
 - C#
-- .NET Framework and .NET Core
+- .NET
 
 ## Getting Started
 
